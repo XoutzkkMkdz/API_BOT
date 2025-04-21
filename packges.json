@@ -1,0 +1,16 @@
+{
+  "name": "api-frases",
+  "version": "1.0.0",
+  "description": "API de frases aleatórias para bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["api", "frases", "whatsapp", "bot"],
+  "author": "SeuNomeAqui",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
